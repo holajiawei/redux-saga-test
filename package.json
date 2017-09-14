@@ -1,0 +1,11 @@
+{
+  "name": "redux-saga-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "java",
+  "license": "ISC"
+}
