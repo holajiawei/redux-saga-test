@@ -7,5 +7,9 @@
     "test": "npm test"
   },
   "author": "java",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^3.7.2",
+    "redux-saga": "^0.15.6"
+  }
 }
